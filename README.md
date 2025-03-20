@@ -28,8 +28,7 @@ print(result)
 ```
 
 ## Output:
-
-![image](https://github.com/user-attachments/assets/c55f17e7-57b1-4c1b-94a4-1bd4f07aa5fc)
+![alt text](<Screenshot 2025-03-13 134854-1.png>)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
